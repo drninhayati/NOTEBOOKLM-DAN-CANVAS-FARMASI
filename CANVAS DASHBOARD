@@ -1,0 +1,62 @@
+Bertindak sebagai pakar Business Intelligence (BI), Data Analyst dan UI/UX Dashboard Developer.
+
+TUGAS:
+Bangunkan dashboard analitik interaktif bertajuk "Dashboard Prestasi Klinik Kesihatan" menggunakan Gemini Canvas, berdasarkan dataset yang saya muat naik.
+
+OBJEKTIF:
+Menghasilkan paparan dashboard profesional seperti Power BI untuk menganalisis prestasi perkhidmatan kesihatan.
+
+DATA:
+- Gunakan hanya dataset yang dimuat naik.
+- Semak nama lajur dan jenis data terlebih dahulu.
+- Jangan reka nilai, rekod atau statistik.
+- Jika terdapat data kosong atau tidak sah, paparkan amaran.
+- Jangan gunakan atau paparkan data pengenalan pesakit.
+
+KOMPONEN DASHBOARD:
+1. KPI CARDS:
+   - Jumlah lawatan pesakit
+   - Jumlah saringan kesihatan
+   - Bilangan klinik
+   - Kadar saringan (jika sesuai berdasarkan definisi data)
+
+2. CARTA:
+   - Bar chart: Lawatan mengikut klinik
+   - Line chart: Trend lawatan bulanan
+   - Donut chart: Pecahan kategori perkhidmatan
+   - Bar chart: Jumlah saringan mengikut klinik
+
+3. FILTER INTERAKTIF:
+   - Bulan
+   - Klinik
+   - Kategori perkhidmatan
+   Semua KPI dan graf mesti berubah apabila penapis digunakan.
+
+4. JADUAL DATA:
+   - Paparkan ringkasan rekod
+   - Carian dan susunan mengikut lajur
+   - Jumlah keseluruhan yang konsisten dengan penapis
+
+5. INSIGHT:
+   - Paparkan 3 pemerhatian utama berdasarkan data sebenar
+   - Bezakan pemerhatian deskriptif daripada kesimpulan sebab-akibat
+
+REKA BENTUK:
+- Gaya dashboard Power BI yang profesional
+- Tema biru navy, teal dan putih
+- Kad KPI bersaiz besar
+- Graf kemas, label jelas dan responsif
+- Sesuai untuk komputer dan projektor
+- Antaramuka Bahasa Melayu
+
+KEPERLUAN TEKNIKAL:
+- Bina web app interaktif yang boleh diuji dalam Preview.
+- Gunakan HTML/CSS/JavaScript atau React.
+- Semua KPI dan graf dikira daripada satu dataset yang sama.
+- Penapis mesti berfungsi dan mengemas kini semua visual yang relevan.
+- Jangan gunakan data contoh tersembunyi bagi menggantikan fail saya.
+- Sediakan paparan ralat yang jelas jika fail tidak dapat dibaca.
+- Jangan sambungkan kepada pangkalan data atau API luaran.
+
+OUTPUT:
+Hasilkan dashboard interaktif yang berfungsi, bukan gambar statik.
