@@ -38,3 +38,39 @@ Jangan bina dashboard dahulu. Sediakan cadangan dalam jadual untuk saya semak.
 
 
 Prompt 3: Minta AI merancang susun atur dashboard
+Berdasarkan KPI, carta dan slicer yang telah dicadangkan, hasilkan pelan susun atur dashboard (dashboard wireframe).
+
+Susun dashboard seperti berikut:
+- Bahagian atas: tajuk dan penapis utama.
+- Baris pertama: KPI Cards.
+- Bahagian tengah: carta trend dan carta perbandingan.
+- Bahagian bawah: jadual analitik dan ringkasan insight.
+
+Gunakan konsep reka bentuk dashboard eksekutif seperti Power BI dengan tema navy, teal dan putih.
+
+Terangkan susun atur dalam bentuk rajah atau struktur berlabel terlebih dahulu. Pastikan carta tidak berulang dari segi fungsi dan semua elemen menyokong objektif analisis.
+
+Jangan hasilkan dashboard berfungsi lagi.
+
+PROMPT 4: Bina dashboard dalam Gemini Canvas
+Sekarang bina dashboard interaktif berdasarkan dataset yang telah dimuat naik dan pelan dashboard yang telah kita persetujui.
+
+Bertindak sebagai BI Developer dan UI/UX Designer.
+
+Gunakan Gemini Canvas untuk membangunkan web app dashboard menggunakan React atau HTML/CSS/JavaScript.
+
+KEPERLUAN:
+1. Gunakan KPI dan formula yang telah disemak.
+2. Hasilkan carta mengikut dashboard wireframe.
+3. Tambahkan slicer interaktif mengikut dimensi dataset.
+4. Semua KPI, carta dan jadual mesti dikemas kini apabila penapis berubah.
+5. Paparkan jadual ringkasan dan 3 insight automatik berasaskan data.
+6. Sediakan butang Reset Filter.
+7. Gunakan tema navy, teal dan putih, gaya profesional seperti Power BI.
+8. Pastikan sesuai untuk desktop, projektor dan telefon pintar.
+9. Jangan cipta data atau statistik baharu.
+10. Sediakan fungsi Upload CSV jika Canvas tidak boleh mengakses fail lampiran secara langsung.
+11. Jika data belum tersedia, paparkan mesej untuk memuat naik fail, bukan KPI contoh.
+12. Jangan sambungkan kepada pangkalan data atau API luaran.
+
+Hasilkan aplikasi interaktif yang boleh diuji dalam Preview, bukan imej dashboard.
